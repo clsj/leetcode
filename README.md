@@ -56,3 +56,48 @@
 
 ![239.滑动窗口最大值](photo/239.滑动窗口最大值.png)
 
+#### [654. 最大二叉树](https://leetcode-cn.com/problems/maximum-binary-tree/)
+
+
+
+![654.最大二叉树](photo/654.最大二叉树.png)
+
+#### [739. 每日温度](https://leetcode-cn.com/problems/daily-temperatures/)
+
+
+
+![739.每日温度](photo/739.每日温度.png)
+
+## 字符串
+
+#### [面试题 01.09. 字符串轮转](https://leetcode-cn.com/problems/string-rotation-lcci/)
+
+![面试题 01.09. 字符串轮转](photo/面试题 01.09. 字符串轮转.png)
+
+#### [572. 另一棵树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/)
+
+![572.另一棵树的子树](photo/572.另一棵树的子树.png)
+
+#### [242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)
+
+![242. 有效的字母异位词](photo/242. 有效的字母异位词.png)
+
+
+
+#### [151. 翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/)
+
+![151. 翻转字符串里的单词](photo/151. 翻转字符串里的单词.png)
+
+#### [3. 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/)
+
+![3. 无重复字符的最长子串](photo/3. 无重复字符的最长子串.png)
+
+## 动态规划
+
+#### [剑指 Offer 47. 礼物的最大价值](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/)
+
+![剑指 Offer 47. 礼物的最大价值](photo/剑指 Offer 47. 礼物的最大价值.png)
+
+#### [121. 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/)
+
+![121. 买卖股票的最佳时机](photo/121. 买卖股票的最佳时机.png)
